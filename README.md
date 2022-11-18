@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @renatinha27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning github...
-- 💞️ I’m looking to collaborate on intenet ...
-- 📫 How to reach me ...
-
-<!---
-renatinha27/renatinha27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# SOBRE MIM
+- 👋 OLA, MEU NOME É RENATINHA27
+- meu email de contato é renata.andrade.silva@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas liguagens
+- 🌱 eu estou aprendendo a programar recentemente​
